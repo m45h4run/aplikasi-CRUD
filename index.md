@@ -1,5 +1,5 @@
 ## Selamat datang
-###Semoga bermanfaat
+### Semoga bermanfaat
 
 Anda dapat menggunakan dan mengedit aplikasi CRUD sederhana ini [di GitHub](https://github.com/masharun/aplikasi-CRUD/edit/gh-pages/index.md).
 
